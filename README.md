@@ -1,0 +1,2 @@
+# ImageDuck
+Image manipulation toolset.
